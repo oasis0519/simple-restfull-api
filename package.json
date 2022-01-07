@@ -1,0 +1,24 @@
+{
+  "name": "schoolcom",
+  "version": "1.0.0",
+  "description": "Restful SchoolCom",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\"&& exit 1\""
+  },
+  "keywords": [
+    "\"RESTfull\"",
+    "\"API\""
+  ],
+  "author": "Pushpendra Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "bcrypt": "^2.0.0",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.7.5"
+  }
+}
